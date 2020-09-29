@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/JodelGenerator/static/css/main.36290368.chunk.css",
-    "main.js": "/JodelGenerator/static/js/main.73ea531b.chunk.js",
-    "main.js.map": "/JodelGenerator/static/js/main.73ea531b.chunk.js.map",
+    "main.js": "/JodelGenerator/static/js/main.98a8bb8b.chunk.js",
+    "main.js.map": "/JodelGenerator/static/js/main.98a8bb8b.chunk.js.map",
     "runtime-main.js": "/JodelGenerator/static/js/runtime-main.81ffc0af.js",
     "runtime-main.js.map": "/JodelGenerator/static/js/runtime-main.81ffc0af.js.map",
     "static/js/2.4274fc94.chunk.js": "/JodelGenerator/static/js/2.4274fc94.chunk.js",
     "static/js/2.4274fc94.chunk.js.map": "/JodelGenerator/static/js/2.4274fc94.chunk.js.map",
     "index.html": "/JodelGenerator/index.html",
-    "precache-manifest.0ce166fc06484e8a7df70ea3616cff2a.js": "/JodelGenerator/precache-manifest.0ce166fc06484e8a7df70ea3616cff2a.js",
+    "precache-manifest.ab61deb1782cf89421dea7cf78e3dcef.js": "/JodelGenerator/precache-manifest.ab61deb1782cf89421dea7cf78e3dcef.js",
     "service-worker.js": "/JodelGenerator/service-worker.js",
     "static/css/main.36290368.chunk.css.map": "/JodelGenerator/static/css/main.36290368.chunk.css.map",
     "static/js/2.4274fc94.chunk.js.LICENSE.txt": "/JodelGenerator/static/js/2.4274fc94.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.81ffc0af.js",
     "static/js/2.4274fc94.chunk.js",
     "static/css/main.36290368.chunk.css",
-    "static/js/main.73ea531b.chunk.js"
+    "static/js/main.98a8bb8b.chunk.js"
   ]
 }

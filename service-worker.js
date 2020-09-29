@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/JodelGenerator/precache-manifest.0ce166fc06484e8a7df70ea3616cff2a.js"
+  "/JodelGenerator/precache-manifest.ab61deb1782cf89421dea7cf78e3dcef.js"
 );
 
 self.addEventListener('message', (event) => {
