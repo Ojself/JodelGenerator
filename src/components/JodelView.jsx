@@ -97,8 +97,15 @@ export default function JodelView(props) {
     },
   };
 
+  
+
   const handleDownload = () => {
-    html2canvas(document.querySelector("#jodelView")).then((canvas) => {
+    const options = {
+      useCORS: true,
+        imageTimeout:0,
+        allowTaint: true
+    }
+    html2canvas(document.querySelector("#jodelView"),options).then((canvas) => {
       let link = document.createElement("a");
       link.download = "jodel.png";
       link.href = canvas.toDataURL();
